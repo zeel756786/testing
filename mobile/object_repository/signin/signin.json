@@ -1,0 +1,411 @@
+{
+  "welcome_to_level_supermind": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Welcome to Level SuperMind']"
+  },
+  "learn_from_experts": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Learn from Experts']"
+  },
+  "meditation": {
+
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Meditation']"
+  },
+  "workouts": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Workouts']"
+  },
+  "sleep": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Sleep']"
+  },
+  "back_arrow": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.ImageView[@content-desc='Back Arrow']"
+  },
+  "sign_in": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Sign In']"
+  },
+  "email": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Email']"
+  },
+  "phone": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Phone']"
+  },
+  "enter_mobile_no": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Enter your phone number']"
+  },
+  "your_phone_number": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Your Phone Number']"
+  },
+  "enter_email_id": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Enter your email']"
+  },
+  "plus_nine_one_code": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='+91']"
+  },
+  "right_arrow": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "(//android.view.View[@content-desc='Arrow Right'])[1]"
+  },
+  "or_sign_up_with": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Or sign up with']"
+  },
+  "enter_the_code_text_box": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Enter the code']"
+  },
+  "enter_code_right_arrow_button": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.view.View[@content-desc='Arrow Right']"
+  },
+  "customise_your_experience": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Customise your experience']"
+  },
+  "tell_us_about_yourself": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Tell us about yourself for personalised recommendations']"
+  },
+  "your_name_text_field": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Your Name']"
+  },
+  "your_email_text_field": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Your Email']"
+  },
+  "gender": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Gender:']"
+  },
+  "male": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Male']"
+  },
+  "female": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Female']"
+  },
+  "other": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Other']"
+  },
+  "i_agree_to_receive_marketing": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='I agree to receive marketing communications from Level SuperMind.']"
+  },
+  "i_agree_to_the_terms_and_conditions": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='I agree to the terms and conditions of Level SuperMind. *']"
+  },
+  "got_a_referral_code": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Got a referral code?']"
+  },
+  "enter_the_code_text_field": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Enter the code']"
+  },
+  "what_type_of_meditations_are_you_looking_for": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='What type of meditations are you looking for?']"
+  },
+  "stress_and_anxiety": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Stress and anxiety']"
+  },
+  "focus": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Focus']"
+  },
+  "productivity": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Productivity']"
+  },
+  "anger": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Anger']"
+  },
+  "what_are_you_looking_for": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='What are you looking for?']"
+  },
+  "stress_relief": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Stress Relief']"
+  },
+  "better_sleep": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Better Sleep']"
+  },
+  "personal_growth": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Personal Growth']"
+  },
+  "spiritual_growth": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Personal Growth']"
+  },
+  "thank_you": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Thank You']"
+  },
+  "how_your_free_trail_works": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='How your free trial works']"
+  },
+  "cross_button": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.ImageView[@content-desc='close']"
+  },
+  "you_ll_lose_out_on_this_offer": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"You'll lose out on this offer if you don't\navail it right now\"]"
+  },
+  "i_ll_lose_out_on_the_offer": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"I'll lose out on the offer\"]"
+  },
+  "search_box_text_field": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator":"//android.widget.TextView[@text='Search for']"
+  },
+  "continue_playing": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator":"//android.widget.TextView[@text='Continue Playing']"
+  },
+  "meditation_tab": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Meditation']"
+  },
+  "sleep_tab": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Sleep']"
+  },
+  "today_tab": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Today']"
+  },
+  "body_tab": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Body']"
+  },
+  "insights_tab": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Insights']"
+  },
+  "name_verify": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"Hi, zeel\"]"
+  },
+  "menu": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.view.View[@resource-id='TodayScreenLazyColumn']/android.widget.ImageView[2]"
+  },
+  "Logout": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.ScrollView/android.view.View[11]"
+  },
+  "are_you_sure": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"Are you sure?\"]"
+  },
+  "are_you_sure_logout": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"Log Out\"]"
+  },
+  "back_arrow_button": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.ImageView[@content-desc='navigate_back']"
+  },
+  "view_profile": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='View Profile']"
+  },
+  "edit_profile": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Edit Profile']"
+  },
+  "delete_account": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Delete Account']"
+  },
+  "longest_streak": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Longest Streak']"
+  },
+  "total_xp": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Total XP']"
+  },
+  "total_activities": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Total Activities']"
+  },
+  "pause_my_account": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Pause my account']"
+  },
+  "delete_my_account": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Delete my account']"
+  },
+  "we_are_really_sad_to_see_you_go": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='We are really sad to see you go.']"
+  },
+  "i_ve_found_other_apps_to_achieve_my_goals": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"I’ve found other apps to achieve my goals.\"]"
+  },
+  "Delete_Account": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "(//android.widget.TextView[@text=\"Delete Account\"])[1]"
+  }
+}

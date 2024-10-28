@@ -1,0 +1,68 @@
+{
+  "Manage_subscription": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Manage\nSubscription']"
+  },
+  "subscription_Details": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Subscription Details']"
+  },
+  "start_free_trial": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Start free trial']"
+  },
+  "one_million_meditators_worldwide": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='1 Million meditators worldwide.']"
+  },
+  "one_four_nine_months": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='₹ 149 / Month']"
+  },
+  "continue_button": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"Continue\"]"
+  },
+  "subscribe_button": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.Button[@resource-id='com.android.vending:id/0_resource_name_obfuscated']"
+  },
+  "congratulations": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Congratulations']"
+  },
+  "cancel_subscription": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Cancel Subscription']"
+  },
+  "continue_to_cancel_memberships": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Continue to cancel membership']"
+  },
+  "click_on_first_checkbox": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View[1]/android.widget.CheckBox"
+  }
+}

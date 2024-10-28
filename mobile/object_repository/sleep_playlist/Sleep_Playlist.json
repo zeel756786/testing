@@ -1,0 +1,188 @@
+{
+  "search_for_sleep": {
+    "platform": "android",
+    "element_type": "search",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Search for sleep']"
+  },
+  "sleep_tab_button": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Sleep']"
+  },
+  "music": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Music']"
+  },
+  "meditation": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "(//android.widget.TextView[@text=\"Meditation\"])[1]"
+  },
+  "stories": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Stories']"
+  },
+  "sleep_tab_icon": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[2]/android.view.View[2]"
+  },
+  "create_playlist": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Create Playlist']"
+  },
+  "give_your_playlist_a_name": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Give your playlist a name']"
+  },
+  "playlist_name": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Playlist Name']"
+  },
+  "cancel": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Cancel']"
+  },
+  "create": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"Create\"]"
+  },
+  "add_item_to_playlist": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"Add items to playlist\"]"
+  },
+  "search_text": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Search…']"
+  },
+  "clear": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.ImageView[@content-desc=\"clear\"]"
+  },
+  "shiva_yoga_Nidra_text": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"Shiva Yoga Nidra\"]"
+  },
+  "Lord_Shiva_Gift_text": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"Lord Shiva's Gift (हिन्दी)\"]"
+  },
+  "oops_it_seems_we_dont_have_what_youre_searching_for": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"Oops, it seems we don’t have what you’re searching for.\"]"
+  },
+  "english_language": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='A English']"
+  },
+  "hindi_language": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"अ Hindi\"]"
+  },
+  "marathi_language": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"ण Marathi\"]"
+  },
+  "ancient_wisdom_drop_down": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "(//android.widget.ImageView[@content-desc=\"Drop Up\"])[1]"
+  },
+  "close_drop_down_collapse_button": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.ImageView[@content-desc=\"Drop Up\"]"
+  },
+  "gudi_padwa": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"Gudi Padwa (हिन्दी)\"]"
+  },
+  "hanuman_and_machhindranath": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"Hanuman And Machhindranath (हिन्दी)\"]"
+  },
+  "story_of_jesus_christ": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"Story Of Jesus Christ (हिन्दी)\"]"
+  },
+  "yama_and_nachiketa": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"Yama And Nachiketa (हिन्दी)\"]"
+  },
+  "the_fearless_lord": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text=\"The Fearless Lord Ganesha (मराठी)\"]"
+  },
+  "stories_from_puranas": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.TextView[@text='Stories from Puranas']"
+  },
+  "radio_button_for_select_all_music": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.widget.RadioButton"
+  },
+  "the_story_of_ekdant_plus_icon": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.view.View[@resource-id='playlist_add676']"
+  },
+  "yama_and_nachiket_plus_icon": {
+    "platform": "android",
+    "element_type": "button",
+    "locator_type": "xpath",
+    "android_locator": "//android.view.View[@resource-id='playlist_add677']"
+  }
+}
