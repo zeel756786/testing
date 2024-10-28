@@ -1,0 +1,6 @@
+2024-04-05 14:37:54 [main] io.unity.framework.init.base.init()
+INFO: Base config to run : Al_Mulla
+2024-04-05 14:38:18 [main] io.unity.performaction.autoweb.testng_logs.test_step()
+INFO: Step : Click on arabic_language_link_text
+2024-04-05 14:38:35 [main] io.unity.performaction.autoweb.testng_logs.test_step()
+INFO: Step : Click on remit_online_header

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [Al_Mulla_POC]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" parallel="tests" name="Verify_currency_exchange_rate(failed)">
+    <classes>
+      <class name="web.tests.ExchangeRate.currency_exchange_rateTests">
+        <methods>
+          <include name="init"/>
+          <include name="beforeSuiteWorks"/>
+          <include name="verify_value_in_currency_exchange_rate" invocation-numbers="0 1 2"/>
+          <include name="tear_down"/>
+        </methods>
+      </class> <!-- web.tests.ExchangeRate.currency_exchange_rateTests -->
+    </classes>
+  </test> <!-- Verify_currency_exchange_rate(failed) -->
+</suite> <!-- Failed suite [Al_Mulla_POC] -->
